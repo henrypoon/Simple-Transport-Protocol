@@ -1,4 +1,4 @@
-# STP
+# Simple Transport Protocol
 
 Reliable transport protocol over the UDP protocol
 STP will include most (but not all) of the features of TCP. Examples
