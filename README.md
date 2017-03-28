@@ -2,7 +2,7 @@
 
 Reliable transport protocol over the UDP protocol
 STP will include most (but not all) of the features of TCP. Examples
-of these features include timeout, ACK, sequence number, Fast Retransmission, Duplicate ACKed.
+of these features include timeout, Three-way handshake, ACK, sequence number, Fast Retransmission, Duplicate ACKed.
 
 User will use your STP protocol to transfer simple text
 (ASCII) files (examples provided on the assignment webpage) from the sender to the receiver. STP as two separate programs:
